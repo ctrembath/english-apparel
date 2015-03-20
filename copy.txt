@@ -1,0 +1,10 @@
+black: #383838
+yellow: #f9c743
+green: #71d45c
+blue: #0079c2
+red: #e41532
+
+bg: #f8f8f8
+buy button: #1c63ac
+
+font: Helvetica Neue at 14px and 1.4 line height
